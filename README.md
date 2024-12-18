@@ -1,4 +1,5 @@
 # Prokka
+The original Prokka github can be found here: "https://github.com/tseemann/prokka".
 To annotate genomes, first load prokka:
 ```
 module load prokka/1.14.5-gompi-2020b
